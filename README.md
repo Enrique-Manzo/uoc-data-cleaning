@@ -23,7 +23,7 @@ El conjunto de datos presenta información sobre diversos fármacos aprobados du
 `Molécula Activa`
 `Forma de Dosificación`
 `Fecha de Aprobación`
-`Compañía Productora
+`Compañía Productora`
 `Condiciones Médicas Tratadas`
 `Reseñas`
 `Efectos secundarios`
