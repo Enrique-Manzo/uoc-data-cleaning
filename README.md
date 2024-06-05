@@ -19,21 +19,21 @@ Este repositorio contiene una trabajo realizado para la asignatura Tipología y 
 ## Descripción del Conjunto de Datos
 El conjunto de datos presenta información sobre diversos fármacos aprobados durante el período especificado. Atributos clave incluyen:
 
-`Nombre del Fármaco`
-`Molécula Activa`
-`Forma de Dosificación`
-`Fecha de Aprobación`
-`Compañía Productora`
-`Condiciones Médicas Tratadas`
-`Reseñas`
-`Efectos secundarios`
-`Indicación terapéutica`
-`Clase del Fármaco`
-`Imagen del Fármaco`
-`Fármacos Relacionados`
-`Calificación y Reseñas del Fármaco`
-`Disponibilidad`
-`Información de Precios`
+- `Nombre del Fármaco`
+- `Molécula Activa`
+- `Forma de Dosificación`
+- `Fecha de Aprobación`
+- `Compañía Productora`
+- `Condiciones Médicas Tratadas`
+- `Reseñas`
+- `Efectos secundarios`
+- `Indicación terapéutica`
+- `Clase del Fármaco`
+- `Imagen del Fármaco`
+- `Fármacos Relacionados`
+- `Calificación y Reseñas del Fármaco`
+- `Disponibilidad`
+- `Información de Precios`
 
 El dataset procesado incluye datos tales como `Conteo de indicaciones terapéuticas` y `antigüedad de mercado`.
 
